@@ -3,19 +3,18 @@
     'CSS',
     'Javascript',
     'React',
-    'Java',
-    'Git',
-    'Figma',
+    'Java',   
+    'Tailwind',
     'MongoDB',
-    'Node JS',
-    'Tailwind ',
     'MySQL',
     'Firebase',
+    'Git',
+    'Figma', 
     
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
-// Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
+
 
 
 // AVAILABLE SKILLS
@@ -27,6 +26,7 @@
     React
     Next JS
     Nuxt JS
+    Node JS
     Node JS
     Vue
     Angular

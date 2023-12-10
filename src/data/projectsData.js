@@ -1,31 +1,32 @@
-/* import one from '../assets/svg/projects/one.svg'
-import two from '../assets/svg/projects/two.svg'
-import three from '../assets/svg/projects/three.svg' */
+import one from '../assets/svg/projects/one.svg'
+// import two from '../assets/svg/projects/two.svg'
+// import three from '../assets/svg/projects/three.svg'
 import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
-import six from '../assets/svg/projects/six.svg'
-/* import seven from '../assets/svg/projects/seven.svg'
-import eight from '../assets/svg/projects/eight.svg' */
+// import six from '../assets/svg/projects/six.svg'
+import seven from '../assets/svg/projects/seven.svg'
+// import eight from '../assets/svg/projects/eight.svg'
+import ten from '../assets/svg/projects/ten.svg'
 
 
 export const projectsData = [
     {
         id: 1,
-        projectName: 'MIMI-BloodBank Web Based System',
+        projectName: 'BloodBank Web Based System',
         projectDesc: ' A project designed to revolutionize healthcare. This innovative system consolidates and streamlines vital information for blood donation and management within organizations and hospitals.',
         tags: ['React', 'Tailwind CSS'],
         code: 'https://github.com/miminthikhaff/MIMI-BloodBank.git',
         demo: 'https://github.com/miminthikhaff/MIMI-BloodBank.git',
-        image: four
+        image: ten
     },
     {
         id: 2,
-        projectName: 'Victus E-commerce Web Based System',
+        projectName: 'E-commerce Web Based System',
         projectDesc: 'Aims with its robust Order and Payment Management module. This multifaceted feature spans across the Admin Panel and Client Site, ensuring seamless transactions and efficient operations.',
         tags: ['React', 'Node JS'],
         code: 'https://github.com/miminthikhaff/victus-ecommerce-web-based-system.git',
         demo: 'https://github.com/miminthikhaff/victus-ecommerce-web-based-system.git',
-        image: five
+        image: four
     },
     { 
         id: 3,
@@ -34,27 +35,27 @@ export const projectsData = [
         tags: ['React', 'Springboot'],
         code: 'https://github.com/miminthikhaff/Eatogram-Social-Web.git',
         demo: 'https://github.com/miminthikhaff/Eatogram-Social-Web.git',
-        image: six
+        image: five
     },
-   /*  {
+     {
         id: 4,
-        projectName: 'Android Patient Tracker',
-        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-        tags: ['Flutter', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: one
+        projectName: 'Online Hotel Management System',
+        projectDesc: 'The web-based hotel management system streamlines operations for busy managers, offering real-time updates and user-friendly features. It handles all hotel activities, from room and hall booking to event organization and staff management.',
+        tags: ['React', 'Node JS'],
+        code: 'https://github.com/SLIITITP/y2_s2_wd_it_01-itp_wd_b01_05.git',
+        demo: 'https://github.com/SLIITITP/y2_s2_wd_it_01-itp_wd_b01_05.git',
+        image: seven
     },
     {
         id: 5,
-        projectName: 'E-Commerce App',
-        projectDesc: 'A Simple E-commerce application',
-        tags: ['React Native', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: two
+        projectName: 'Online Banking Management System',
+        projectDesc: 'This project oversees employee management, banks, and payment processes. This web-based application provides a streamlined interface for managing various banking activities online. ',
+        tags: ['Java', 'SQL', 'CSS'],
+        code: 'https://github.com/miminthikhaff/Online-Banking-System-Y2S1-.git',
+        demo: 'https://github.com/miminthikhaff/Online-Banking-System-Y2S1-.git',
+        image: one
     },
-    {
+    /* {
         id: 6,
         projectName: 'Uber Lite',
         projectDesc: 'Uber clone',
