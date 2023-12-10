@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MIMI-Portfolio/static/css/main.5b50a800.css",
-    "main.js": "/MIMI-Portfolio/static/js/main.7ba4f5b2.js",
+    "main.js": "/MIMI-Portfolio/static/js/main.b03a5a38.js",
     "static/js/787.80e53e90.chunk.js": "/MIMI-Portfolio/static/js/787.80e53e90.chunk.js",
     "static/media/four.svg": "/MIMI-Portfolio/static/media/four.797cac62273af3693cd624c5f58e33b5.svg",
     "static/media/placeholder.png": "/MIMI-Portfolio/static/media/placeholder.3fcbbdcd05f3e458d129.png",
@@ -141,11 +141,11 @@
     "static/media/vuetifyjs.svg": "/MIMI-Portfolio/static/media/vuetifyjs.8a22a3ec81ad62e97094feab6e7ee0fb.svg",
     "static/media/bulma.svg": "/MIMI-Portfolio/static/media/bulma.5910d4416e077262d0264109649ab214.svg",
     "main.5b50a800.css.map": "/MIMI-Portfolio/static/css/main.5b50a800.css.map",
-    "main.7ba4f5b2.js.map": "/MIMI-Portfolio/static/js/main.7ba4f5b2.js.map",
+    "main.b03a5a38.js.map": "/MIMI-Portfolio/static/js/main.b03a5a38.js.map",
     "787.80e53e90.chunk.js.map": "/MIMI-Portfolio/static/js/787.80e53e90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b50a800.css",
-    "static/js/main.7ba4f5b2.js"
+    "static/js/main.b03a5a38.js"
   ]
 }
